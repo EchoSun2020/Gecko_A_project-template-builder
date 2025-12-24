@@ -1,0 +1,52 @@
+{
+    "default_path": "D:\\00working",
+    
+    "subfolder_config": {
+        "ART": {
+            "REF": {},
+            "PS": {},
+            "BLENDER": {
+                "SCENES": {},
+                "TEXTURES": {},
+                "RENDERS": {}
+            },
+            "OUTPUT": {
+                "FINAL": {},
+                "WIP": {}
+            }
+        },
+        "CODE": {
+            "SRC": {
+                "COMPONENTS": {},
+                "UTILS": {}
+            },
+            "DOCS": {},
+            "ASSETS": {
+                "IMAGES": {},
+                "FONTS": {}
+            },
+            "BUILD": {}
+        },
+        "VIDEO": {
+            "FOOTAGE": {
+                "RAW": {},
+                "PROXY": {}
+            },
+            "PR": {},
+            "AE": {
+                "COMPS": {},
+                "PRESETS": {}
+            },
+            "RENDER": {
+                "PREVIEW": {},
+                "FINAL": {}
+            }
+        },
+        "WRITING": {
+            "DRAFT": {},
+            "RESEARCH": {},
+            "ASSETS": {},
+            "FINAL": {}
+        }
+    }
+}
